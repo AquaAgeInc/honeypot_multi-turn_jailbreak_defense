@@ -4,6 +4,7 @@
 
 
 本研究に関するモデル、安全性技術、評価・検証手法、データセット（学習用／評価用）、ソースコードは、研究の透明性・再現性の観点から以下のGitHubリポジトリにて公開予定：
+https://github.com/AquaAgeInc/honeypot_multi-turn_jailbreak_defense
 https://github.com/yiwangyw/honeypot_multi-turn_jailbreak_defense
 公開対象には以下が含まれる：
 ハニーポット型防御LLMのモデル構成および対話誘導設計
